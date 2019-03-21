@@ -12,3 +12,4 @@ def choose
     puts "I have no idea what that means."
   end
 end
+  choose
